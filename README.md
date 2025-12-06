@@ -1,4 +1,4 @@
-# An Efficient Dataset Construction Paradigm for Acupoint Detection in Acupuncture Robots
+# Acupoint Detection for Acupuncture Robots
 
 Code and data will be available in this repository after the paper is accepted.
 
