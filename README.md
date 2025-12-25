@@ -4,7 +4,10 @@ Code and data will be available in this repository after the paper is accepted.
 
 Some relevant videos:
 
-https://github.com/user-attachments/assets/7aae778e-9913-439c-a621-deb9fe16c7e3
+
+
+https://github.com/user-attachments/assets/cb40dd7a-c38c-49b9-87f5-944f1b508137
+
 
 
 
