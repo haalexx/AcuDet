@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ba694605-49f7-4f2a-9291-580c9fe61e70
+
 # Acupoint Detection for Acupuncture Robots
 
 Code and data will be available in this repository after the paper is accepted.
